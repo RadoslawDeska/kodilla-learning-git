@@ -11,3 +11,5 @@ for store in shopping_list:
     print(f"Idę do {store} i kupuję tam: {store_list}.")
     cnt += len(shopping_list[store])
 print(f"W sumie kupuję {cnt} produktów.")
+
+# koniec pliku
